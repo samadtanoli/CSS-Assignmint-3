@@ -1,0 +1,32 @@
+h1 {
+    text-align: right;
+    color: rgb(17, 17, 150);
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.one {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.two {
+    font-weight: bold;
+}
+
+span {
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+
+.three {
+    font-family: 'Rubik Burned', system-ui;
+    font-weight: bold;
+}
+
+.four {
+    font-family: 'Lemon', serif;
+    font-family: 'Noto Nastaliq Urdu', serif;
+    font-family: 'Rubik Burned', system-ui;
+    font-weight: bold;
+}
